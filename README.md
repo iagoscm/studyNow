@@ -1,4 +1,4 @@
- # Simple MOOC
+ # studyNow
 
 ## Uma simples plataforma para EAD
  Repo criado no intuito de treinar a linguagem de programação Python, utilizando o framework Django.
