@@ -1,7 +1,7 @@
  # Simple MOOC
 
 ## Uma simples plataforma para EAD
- Repo criado no intuito de treinar a linguagem de programação Python, utilizando o framework Django e a biblioteca YUI.
+ Repo criado no intuito de treinar a linguagem de programação Python, utilizando o framework Django.
 
 - Focada em cursos abertos e massivos
 - Desenvolvida em Python 3.9.2 e Django 4.1
